@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2025",
+    "agency": "Director of National Intelligence (ODNI)",
+    "function": "Intelligence Community Management Account Authorization",
+    "number": "650000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 5)\n(2) DISTRIBUTION BY THE PRESIDENT.\u2014Subject to paragraph (3), the President shall provide for suitable distribution of the classified Schedule of Authorizations referred to in subsection (a), or of appropriate portions of such Schedule, within the executive branch of the Federal Government. (3) LIMITS ON DISCLOSURE.\u2014The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule except\u2014 (A) as provided in section 601(a) of the   \nImplementing Recommendations of the 9/11   \nCommission Act of 2007 (50 U.S.C. 3306(a)); (B) to the extent necessary to implement   \nthe budget; or (C) as otherwise required by law. SEC. 103. INTELLIGENCE COMMUNITY MANAGEMENT ACCOUNT. (a) AUTHORIZATION OF APPROPRIATIONS.\u2014There is authorized to be appropriated for the Intelligence Community Management Account of the Director of National Intelligence for fiscal year 2025 the sum of \\$650,000,000.",
+    "context_index": 5,
+    "source_pdf": "./tmp_pdfs/50b234e0958e2e1f__BILLS-118-HR8512-T000463-Amdt-1.pdf",
+    "source_url": "https://docs.house.gov/meetings/IG/IG00/20240611/117436/BILLS-118-HR8512-T000463-Amdt-1.pdf",
+    "source_pdf_hash": "cafd71126d76bb3652cc3048c273b6e634c9ed0608efdb3422831ce8166f0eed"
+  },
+  {
+    "date": "2025",
+    "agency": "Central Intelligence Agency (CIA)",
+    "function": "Retirement and Disability Fund Appropriation",
+    "number": "514000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 6)\n(b) CLASSIFIED AUTHORIZATION OF APPROPRIA  \n2 TIONS.\u2014In addition to amounts authorized to be appro  \n3 priated for the Intelligence Community Management Ac  \n4 count by subsection (a), there are authorized to be appro  \n5 priated for the Intelligence Community Management Ac  \n6 count for fiscal year 2025 such additional amounts as are   \n7 specified in the classified Schedule of Authorizations re  \n8 ferred to in section 102(a). 9 TITLE II\u2014CENTRAL INTEL-LIGENCE AGENCY RETIRE-MENT AND DISABILITY SYS-TEM SEC. 201. AUTHORIZATION OF APPROPRIATIONS. There is authorized to be appropriated for the Central Intelligence Agency Retirement and Disability Fund \\$514,000,000 for fiscal year 2025. TITLE III\u2014GENERALINTELLIGENCE MATTERS SEC. 301. RESTRICTION ON CONDUCT OF INTELLIGENCE ACTIVITIES. The authorization of appropriations by this Act shall not be deemed to constitute authority for the conduct of any intelligence activity which is not otherwise authorized by the Constitution or the laws of the United States.",
+    "context_index": 6,
+    "source_pdf": "./tmp_pdfs/50b234e0958e2e1f__BILLS-118-HR8512-T000463-Amdt-1.pdf",
+    "source_url": "https://docs.house.gov/meetings/IG/IG00/20240611/117436/BILLS-118-HR8512-T000463-Amdt-1.pdf",
+    "source_pdf_hash": "cafd71126d76bb3652cc3048c273b6e634c9ed0608efdb3422831ce8166f0eed"
+  }
+]
