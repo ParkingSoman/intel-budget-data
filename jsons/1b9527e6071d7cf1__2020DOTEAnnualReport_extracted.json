@@ -1,0 +1,41 @@
+[
+  {
+    "date": "2019-2020",
+    "agency": "U.S. Air Force",
+    "function": "Space systems T&E infrastructure",
+    "number": "100000000",
+    "number_type": "Amount",
+    "budget_type": "Increase",
+    "context": "(Page 268)\nest and training ranges via secure networks. \u2022 Acquisition of additional high fidelity, rapidly reprogrammable, open-air threat emulation systems. Upgrades to current high fidelity systems in order to provide greater flexibility to the ranges in support of the warfighter. Full funding is required to provide the necessary test and training capabilities that enable real-time battle-shaping of open-air missions. Collection of critical, open-air mission data is also necessary for verification, validation, and accreditation of associated M&S capabilities. Threat Representation for OT&E of Space Systems U.S. warfighting capabilities rely heavily on space-based systems for situational awareness, communications, and precision targeting. In recent years, Russia, China and other potential adversaries have worked to diminish U.S. warfighting advantages by developing capabilities designed to degrade our space systems. The DOD currently lacks the T&E infrastructure to adequately represent many space threats, including attacks using cyber, electronic warfare, kinetic weapons, nuclear detonations, and directed energy. While some limited threat-representative capabilities do exist, they are not widely known nor utilized within the DOD T&E community. In 2019 and 2020, the U.S. Air Force began an initial buildup of space systems T&E infrastructure to address known T&E capability gaps, primarily focusing on foundational infrastructure elements that are cross-cutting, enduring, and usable across multiple space systems. Despite these initial investments, the current and planned level of resources is insufficient to enable adequate threat testing of the many space programs currently under development. DOT&E estimates $\\$ 100$ Million per year across the Future Year Defense Program (FYDP) is required",
+    "context_index": 371,
+    "source_pdf": "./tmp_pdfs\\1b9527e6071d7cf1__2020DOTEAnnualReport.pdf",
+    "source_url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2020/other/2020DOTEAnnualReport.pdf",
+    "source_pdf_hash": "1dc5c1b3aaf4b9e302829aec608cb34ef90d80a8a9a7031d06b5ed94fb501f77"
+  },
+  {
+    "date": "2020",
+    "agency": "OTC",
+    "function": "Funding decrease for personnel and test technology",
+    "number": "15",
+    "number_type": "Percentage",
+    "budget_type": "Decrease",
+    "context": "(Page 271)\nrsonnel and test technology at OTC. When adjusted for inflation, there has been a 15 percent decrease in funding for OTC personnel and a 34 percent reduction in funding for OT Test Technology from FY14-FY20. Funding",
+    "context_index": 379,
+    "source_pdf": "./tmp_pdfs\\1b9527e6071d7cf1__2020DOTEAnnualReport.pdf",
+    "source_url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2020/other/2020DOTEAnnualReport.pdf",
+    "source_pdf_hash": "1dc5c1b3aaf4b9e302829aec608cb34ef90d80a8a9a7031d06b5ed94fb501f77"
+  },
+  {
+    "date": "2020",
+    "agency": "OTC",
+    "function": "Funding reduction for test technology",
+    "number": "34",
+    "number_type": "Percentage",
+    "budget_type": "Decrease",
+    "context": "(Page 271)\nrsonnel and test technology at OTC. When adjusted for inflation, there has been a 15 percent decrease in funding for OTC personnel and a 34 percent reduction in funding for OT Test Technology from FY14-FY20. Funding",
+    "context_index": 379,
+    "source_pdf": "./tmp_pdfs\\1b9527e6071d7cf1__2020DOTEAnnualReport.pdf",
+    "source_url": "https://www.dote.osd.mil/Portals/97/pub/reports/FY2020/other/2020DOTEAnnualReport.pdf",
+    "source_pdf_hash": "1dc5c1b3aaf4b9e302829aec608cb34ef90d80a8a9a7031d06b5ed94fb501f77"
+  }
+]
