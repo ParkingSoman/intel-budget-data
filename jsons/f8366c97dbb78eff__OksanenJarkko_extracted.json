@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2022",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "Budget allocation",
+    "number": "62300000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 40)\near) belongs to the NIP $( \\$ 62.3$ billion) and the rest to the MIP ( $\\$ 23.3$ billion). The 9/11 Commission recommended the IC to declassify its budget, and the community has done so since 2011 for the NIP and 2012 for the MIP. (ODNI 2022b.)",
+    "context_index": 45,
+    "source_pdf": "./tmp_pdfs\\f8366c97dbb78eff__OksanenJarkko.pdf",
+    "source_url": "https://trepo.tuni.fi/bitstream/10024/143088/2/OksanenJarkko.pdf",
+    "source_pdf_hash": "03bc6c2e8b08c3cada4f2b13488b3d5434bc4f84049a6e67c1fdc7582c7fdef9"
+  },
+  {
+    "date": "2022",
+    "agency": "Military Intelligence Program (MIP)",
+    "function": "Budget allocation",
+    "number": "23300000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 40)\near) belongs to the NIP $( \\$ 62.3$ billion) and the rest to the MIP ( $\\$ 23.3$ billion). The 9/11 Commission recommended the IC to declassify its budget, and the community has done so since 2011 for the NIP and 2012 for the MIP. (ODNI 2022b.)",
+    "context_index": 45,
+    "source_pdf": "./tmp_pdfs\\f8366c97dbb78eff__OksanenJarkko.pdf",
+    "source_url": "https://trepo.tuni.fi/bitstream/10024/143088/2/OksanenJarkko.pdf",
+    "source_pdf_hash": "03bc6c2e8b08c3cada4f2b13488b3d5434bc4f84049a6e67c1fdc7582c7fdef9"
+  }
+]
