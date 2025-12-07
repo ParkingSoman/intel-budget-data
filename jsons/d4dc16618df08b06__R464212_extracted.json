@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2018",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "20% of NIP budget",
+    "number": "20000000",
+    "number_type": "Amount",
+    "budget_type": "Share",
+    "context": "(Page 29)\nmillion; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2018d; Col2: $10 million; Col3: $20 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2019e; Col2: $10 million; Col3: $15 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2020f; Col2: $10 million; Col3: $10 million; Col4: $10 million or 20%c; Col5: $10 million or 20%c",
+    "context_index": 34,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2019",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "20% of NIP budget",
+    "number": "20000000",
+    "number_type": "Amount",
+    "budget_type": "Share",
+    "context": "(Page 29)\nmillion; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2018d; Col2: $10 million; Col3: $20 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2019e; Col2: $10 million; Col3: $15 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2020f; Col2: $10 million; Col3: $10 million; Col4: $10 million or 20%c; Col5: $10 million or 20%c",
+    "context_index": 34,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2020",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "20% of NIP budget",
+    "number": "10000000",
+    "number_type": "Amount",
+    "budget_type": "Share",
+    "context": "(Page 29)\nmillion; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2018d; Col2: $10 million; Col3: $20 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2019e; Col2: $10 million; Col3: $15 million; Col4: $20 million or 20%c; Col5: $10 million or 20%c | Col1: 2020f; Col2: $10 million; Col3: $10 million; Col4: $10 million or 20%c; Col5: $10 million or 20%c",
+    "context_index": 34,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2020",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "Procurement",
+    "number": "200000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 36)\namounts in millions): Procurement; Col2: $20 million or 20%c; Col3: $10 million or 20%c; Col4: $20 million or 20%c; Col5: $10 million or 20%c | (dollar amounts in millions): RDT&E; Col2: $10 million or 20%c; Col3: $10 million or 20%c; Col4: $10 million or 20%c; Col5: $10 million or 20%c",
+    "context_index": 42,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2020",
+    "agency": "National Intelligence Program (NIP)",
+    "function": "RDT&E",
+    "number": "100000000",
+    "number_type": "Amount",
+    "budget_type": "Total Budget",
+    "context": "(Page 36)\namounts in millions): Procurement; Col2: $20 million or 20%c; Col3: $10 million or 20%c; Col4: $20 million or 20%c; Col5: $10 million or 20%c | (dollar amounts in millions): RDT&E; Col2: $10 million or 20%c; Col3: $10 million or 20%c; Col4: $10 million or 20%c; Col5: $10 million or 20%c",
+    "context_index": 42,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2020",
+    "agency": "DOD",
+    "function": "Reprogramming thresholds for RDT&E and procurement",
+    "number": "400000000",
+    "number_type": "Amount",
+    "budget_type": "Increase",
+    "context": "(Page 41)\nSimilarly, while some observers argue lower reprogramming thresholds allow for greater oversight, others say they potentially create delays and less flexibility for smaller programs. Questions may include the following: Should Congress increase dollar amount reprogramming thresholds to match their previous levels relative to inflation and the DOD budget, including to $\\$ 20$ million for RDT&E and to $\\$ 40$ million for procurement, as recommended by the Section 809 panel?114 Should Congress increase to $50 \\%$ from $20 \\%$ the percentage limitation in reprogramming thresholds for RDT&E and procurement, as recommended by the panel? DOD opportunity costs in transferring and reprogramming funds Dollar amount limits on DOD general and special transfer authority create a finite amount of funding that DOD can transfer or reprogram in a given fiscal year. As a result, funding used for certain reprogramming actions is funding that cannot be used on others. Questions may include the following: What are the opportunity costs for transferring and reprogramming funds\u2014that is, what reprogramming actions were deferred or canceled to redirect FY2019 and FY2020 funds for barrier construction along the U.S.-Mexico border? Did any of these transfers result in disruptions to procurement or RDT&E programs? If so, how were programs and/or contractors impacted? On the other hand, to what degree did these transfers enhance U.S. national security? How does DOD determine which reprogramming actions should take priority over others? Level of effort needed for Congress to monitor DOD reprogramming actions may be high Some observers say the level of effort in Congress necessary to monitor DOD reprogramming actions is high because of the manner in which the department provides the information to Congress. Others argue that DOD has improved the quality and timeliness of reporting certain types of reprogramming actions. The DOD Comptroller publishes DD 1415 reprogramming action forms in portable document format (PDF). This format may make it difficult to search and analyze reprogramming actions on a line-item level. As GAO has previously noted, improvements in the forms used to process reprogramming actions may reduce the level of effort needed for congressional review and oversight.115 To improve oversight, therefore, Congress may wish to encourage or require DOD to publish reprogramming actions in a standardized, machinereadable format\u2014such as a comma-separated file, spreadsheet, or database\u2014to reduce the level of effort necessary for Congress and nonfederal stakeholders to monitor and analyze the information. DOD response to contingencies and emergencies, such as COVID-19 DOD typically responds to contingencies and emergencies, such as COVID-19, in part by transferring and reprogramming funds to support higher priorities. As previously discussed, DOD identified $30 \\%$ in department funding from the CARES Act for reallocation.116 Ellen Lord, under secretary of def",
+    "context_index": 47,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  },
+  {
+    "date": "2020",
+    "agency": "DOD",
+    "function": "Reprogramming thresholds for RDT&E and procurement share",
+    "number": "50%",
+    "number_type": "Percentage",
+    "budget_type": "Share",
+    "context": "(Page 41)\nSimilarly, while some observers argue lower reprogramming thresholds allow for greater oversight, others say they potentially create delays and less flexibility for smaller programs. Questions may include the following: Should Congress increase dollar amount reprogramming thresholds to match their previous levels relative to inflation and the DOD budget, including to $\\$ 20$ million for RDT&E and to $\\$ 40$ million for procurement, as recommended by the Section 809 panel?114 Should Congress increase to $50 \\%$ from $20 \\%$ the percentage limitation in reprogramming thresholds for RDT&E and procurement, as recommended by the panel? DOD opportunity costs in transferring and reprogramming funds Dollar amount limits on DOD general and special transfer authority create a finite amount of funding that DOD can transfer or reprogram in a given fiscal year. As a result, funding used for certain reprogramming actions is funding that cannot be used on others. Questions may include the following: What are the opportunity costs for transferring and reprogramming funds\u2014that is, what reprogramming actions were deferred or canceled to redirect FY2019 and FY2020 funds for barrier construction along the U.S.-Mexico border? Did any of these transfers result in disruptions to procurement or RDT&E programs? If so, how were programs and/or contractors impacted? On the other hand, to what degree did these transfers enhance U.S. national security? How does DOD determine which reprogramming actions should take priority over others? Level of effort needed for Congress to monitor DOD reprogramming actions may be high Some observers say the level of effort in Congress necessary to monitor DOD reprogramming actions is high because of the manner in which the department provides the information to Congress. Others argue that DOD has improved the quality and timeliness of reporting certain types of reprogramming actions. The DOD Comptroller publishes DD 1415 reprogramming action forms in portable document format (PDF). This format may make it difficult to search and analyze reprogramming actions on a line-item level. As GAO has previously noted, improvements in the forms used to process reprogramming actions may reduce the level of effort needed for congressional review and oversight.115 To improve oversight, therefore, Congress may wish to encourage or require DOD to publish reprogramming actions in a standardized, machinereadable format\u2014such as a comma-separated file, spreadsheet, or database\u2014to reduce the level of effort necessary for Congress and nonfederal stakeholders to monitor and analyze the information. DOD response to contingencies and emergencies, such as COVID-19 DOD typically responds to contingencies and emergencies, such as COVID-19, in part by transferring and reprogramming funds to support higher priorities. As previously discussed, DOD identified $30 \\%$ in department funding from the CARES Act for reallocation.116 Ellen Lord, under secretary of def",
+    "context_index": 47,
+    "source_pdf": "./tmp_pdfs\\d4dc16618df08b06__R464212.pdf",
+    "source_url": "https://www.congress.gov/crs_external_products/R/PDF/R46421/R46421.2.pdf",
+    "source_pdf_hash": "7637e37bdfa04d4ebfe1375b60b2d3e87364ed6895b6c50903b2f8802a68b8d0"
+  }
+]
